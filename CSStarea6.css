@@ -1,0 +1,52 @@
+
+
+header{
+	height:110px;
+	border-bottom:solid #00008B;
+	background-color:#00008B;
+}
+
+	
+
+.imagen{
+	float:left;
+	margin-top:5px;
+	margin-left:60px;
+	width:8%;
+}
+
+.titulo{
+	text-align:center;
+	font-family: 'Short Stack', cursive;
+	color:white;
+}
+
+
+
+.div{
+	margin: 30px auto;
+	border:solid;
+	border-radius:25px;
+	padding: 10px 30px;
+	width:500px;
+	text-align:center;
+	border-color:#00008B;
+	background-color:#87CEEB;
+	
+}
+
+.enlace{
+	font-size:50px;
+	font-family: 'Stalemate', cursive;
+	text-decoration:none;
+	color:#00008B;
+	}
+	
+#pie{
+	background-color:#00008B;
+	color:white;
+	padding-left:20px;
+	
+	
+	
+}
